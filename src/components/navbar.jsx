@@ -55,6 +55,12 @@ const Navbar = () => {
               Mates
             </Link>
             <Link
+              to="/help"
+              className="block lg:inline-block text-gray-300 hover:text-white transition duration-300 mb-2 lg:mb-0"
+            >
+              Help and Support
+            </Link>
+            <Link
               to="/404"
               className="block lg:inline-block text-gray-300 hover:text-white transition duration-300 mb-2 lg:mb-0"
             >
